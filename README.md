@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d6862cb9-a6eb-46f4-8df9-411f38ffc20e/da18ugq-f031344b-1c87-4586-a4c7-5d71c308a435.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9kNjg2MmNiOS1hNmViLTQ2ZjQtOGRmOS00MTFmMzhmZmMyMGUvZGExOHVncS1mMDMxMzQ0Yi0xYzg3LTQ1ODYtYTRjNy01ZDcxYzMwOGE0MzUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.akOPsdvY8gq6rbRbaqDQ2NAstuo-Os_WCcISURsoMFo" alt="Iron Man Banner" width="100%" />
+</p>
+
 # 👋 ¡Hola! Soy Juan Sebastián Diaz Santisteban 
 
 💻 **Analista y desarrollador de software | Aprendiz SENA – ADSO**
@@ -61,6 +65,7 @@ Además de la programación, me encanta el **fútbol**, los **videojuegos**, la 
 * 🎮 Fan de los videojuegos con buena historia
 * 🧠 Mentalidad de mejora constante
 * 🔴❤️ Hincha apasionado del América de Cali
+* 😎 Fan de Marvel y DC
 
 ---
 
@@ -71,4 +76,13 @@ Además de la programación, me encanta el **fútbol**, los **videojuegos**, la 
 
 ---
 
-⭐ *Gracias por visitar mi perfil. ¡Siempre aprendiendo y construyendo!*
+⭐ *Gracias por visitar mi perfil.*
+---
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/da/ba/e9/dabae94876c34f937db54c30ea7a4693.gif" alt="Iron Man GIF" width="300" />
+</p>
+
+<p align="center">
+  <strong>💡 “Siempre aprendiendo, siempre construyendo.”</strong>
+</p>
