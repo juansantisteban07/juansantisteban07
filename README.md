@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="iron man presentacion.png" width="100%" />
+  <img src="proyecto-iron-man.gif" width="100%" />
 </p>
 
 # 👋 ¡Hola! Soy Juan Sebastián Diaz Santisteban 
